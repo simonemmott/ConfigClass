@@ -85,9 +85,9 @@ The location of the configuration data can be specified with the @ConfigClass an
 ```java
 @ConfigClass	(
 	filename="/opt/example/config/my.json"	// <--- (1)
-	location=ConfigLocation.OS_FILE	// <-- (2)
-	encoding="UTF-8"		// <-- (3)
-	dateFormat="dd-MM-yyyy"	// <-- (4)
+	location=ConfigLocation.OS_FILE		// <-- (2)
+	encoding="UTF-8"			// <-- (3)
+	dateFormat="dd-MM-yyyy"			// <-- (4)
 )
 public class MyDetailedConfig {
 	
