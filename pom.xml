@@ -31,7 +31,7 @@
 	<dependency>
 		<groupId>com.k2</groupId>
 		<artifactId>Util</artifactId>
-		<version>0.2.11</version>
+		<version>0.2.12</version>
 	</dependency>
     <dependency>
       <groupId>junit</groupId>
