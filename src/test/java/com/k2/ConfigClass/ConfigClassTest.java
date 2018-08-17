@@ -89,7 +89,8 @@ public class ConfigClassTest {
 		assertEquals(3, config.messages.size());
 		
 	}
-	
+
+/*	
 	@Test
 	public void readAbsoluteAlternativeTestConfig() {
 		
@@ -101,7 +102,7 @@ public class ConfigClassTest {
 		assertEquals(3, config.messages.size());
 		
 	}
-	
+*/	
 	
 
 	@Test
